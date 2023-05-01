@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "crud-command-line",
+  "version": "1.0.0",
+  "description": "CRUD operation using CLI ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.0",
+    "uuidv4": "^6.2.13"
+  }
+}
